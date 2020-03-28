@@ -22,16 +22,24 @@ A couple of examples are also available under the form of Jupyter-notebooks that
 - English labeled curves: Germany
 
 <img src="img/covid-19-world.png"/>
-<img src="img/covid-19-estimation-tn.png"/> 
+
+<img src="img/covid-19-estimation-tn.png"/>
 <img src="img/covid-19-estimation-de.png"/>
+
 <img src="img/covid-19-daily-growth-tn.png"/>
 <img src="img/covid-19-daily-growth-de.png"/>
+
 <img src="img/covid-19-death-rate-tn.png"/>
 <img src="img/covid-19-death-rate-de.png"/>
-<img src="img/covid-19-recovery-rate-tn.png"/> 
+
+<img src="img/covid-19-recovery-rate-tn.png"/>
 <img src="img/covid-19-recovery-rate-de.png"/>
-<img src="img/covid-19-sir-model-de.png" /> 
-<img src="img/covid-19-sir-model-tn.png"/>
+
+<img src="img/covid-19-logistic-curve-fit-tn.png" />
+<img src="img/covid-19-logistic-curve-fit-de.png"/>
+
+<img src="img/covid-19-sir-model-tn.png" />
+<img src="img/covid-19-sir-model-de.png"/>
 
 
 
