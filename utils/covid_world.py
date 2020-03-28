@@ -5,8 +5,8 @@ Copyright (c) 2020 Ayoub Malek
 This source code is licensed under the terms of the MIT license.
 For a copy, see <https://opensource.org/licenses/MIT>.
 """
-from dataproc import get_world_data
-from visproc import plot_points_cloud
+from .dataproc import get_world_data
+from .visproc import plot_points_cloud
 
 
 class CovidWorld:
