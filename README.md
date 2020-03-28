@@ -18,6 +18,9 @@ A couple of examples are also available under the form of Jupyter-notebooks that
 - In Germany
 
 # Graphs
+- Arabic labeled curves: Tunisia
+- English labeled curves: Germany
+
 <img src="img/covid-19-world.png"/>
 <img src="img/covid-19-estimation-tn.png"/> 
 <img src="img/covid-19-estimation-de.png"/>
