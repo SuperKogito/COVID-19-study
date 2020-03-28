@@ -18,12 +18,17 @@ A couple of examples are also available under the form of Jupyter-notebooks that
 - In Germany
 
 # Graphs
-<img src="img/covid-19-world.png" width="700"/>
-<img src="img/covid-19-estimation-tn.png" width="350"/> <img src="img/covid-19-estimation-de.png" width="350"/>
-<img src="img/covid-19-daily-growth-tn.png" width="350"/> <img src="img/covid-19-daily-growth-de.png" width="350"/>
-<img src="img/covid-19-death-rate-tn.png" width="350"/> <img src="img/covid-19-death-rate-de.png" width="350"/>
-<img src="img/covid-19-recovery-rate-tn.png" width="350"/> <img src="img/covid-19-recovery-rate-de.png" width="350"/>
-<img src="img/covid-19-sir-model-de.png" width="350"/> <img src="img/covid-19-sir-model-tn.png" width="350"/>
+<img src="img/covid-19-world.png"/>
+<img src="img/covid-19-estimation-tn.png"/> 
+<img src="img/covid-19-estimation-de.png"/>
+<img src="img/covid-19-daily-growth-tn.png"/>
+<img src="img/covid-19-daily-growth-de.png"/>
+<img src="img/covid-19-death-rate-tn.png"/>
+<img src="img/covid-19-death-rate-de.png"/>
+<img src="img/covid-19-recovery-rate-tn.png"/> 
+<img src="img/covid-19-recovery-rate-de.png"/>
+<img src="img/covid-19-sir-model-de.png" /> 
+<img src="img/covid-19-sir-model-tn.png"/>
 
 
 
