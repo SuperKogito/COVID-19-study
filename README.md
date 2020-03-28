@@ -1,3 +1,5 @@
+<img src="logoCovid.png" ></img>
+
 # COVID-19-study
 - A study of COVID-19 in Tunisia and Germany (scripts can be used for other countries.)
 - The project a couple of scripts that helps scrape the COVID-19 cases, provided by  Johns Hopkins University (JHU CSSE).
